@@ -11,4 +11,5 @@ This procedure is determined to only windows users. I would recommend to use pyc
     4. python manage.py createsuperuser - Then add a username, email and password in the following steps as mentioned in the terminal
     5. python manage.py runserver
 6. Then use the link mentioned in the terminal to open the framework.
-7. All the different API endpoints that are added in the application is mentioned in the webpage in the format 'Task':'/directory/'. Add that directory in the webpage to open that particular API endpoint
+
+Note: Give proper input when you are trying to register. If any invalid input given the page gets refreshed asking for input again.
