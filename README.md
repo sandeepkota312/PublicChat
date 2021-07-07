@@ -3,7 +3,7 @@ This procedure is determined to only windows users. I would recommend to use pyc
 1. Install Python 3.9.5 version - https://www.python.org/downloads/
 2. Create a new project in your pycharm and open that project.
 3. Clone this git repository to your system and place them in the project folder.
-4. In the terminal go to pizza repository using the command 'cd chatapp'.
+4. In the terminal go to pizza repository using the command 'cd PublicChat'.
 5. Then type the following commands in sequence as follows:
     1. pip install -r requirements.txt
     2. python manage.py makemigrations
