@@ -13,3 +13,5 @@ This procedure is determined to only windows users. I would recommend to use pyc
 6. Then use the link mentioned in the terminal to open the framework.
 
 Note: Give proper input when you are trying to register. If any invalid input given the page gets refreshed asking for input again.
+
+Refer this link for a quick demonstration: https://drive.google.com/file/d/1U-wKM641-SXiXFruQDq-tcvpJiqURiSA/view?usp=sharing
